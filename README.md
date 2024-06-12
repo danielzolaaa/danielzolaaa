@@ -1,16 +1,19 @@
-## Hi there 👋
+### Welcome to my profile 🖥️
 
-<!--
-**danielzolaaa/danielzolaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Simões Gamarra da Silva
 
-Here are some ideas to get you started:
+- I'am learning Progamation
+- I am trying learn all of languages of Progamation that I can
+- I will use this site to save my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can talk with me by my email 📫
+
+profissional.danielsgamarra@gmail.com
+
+@eu_dangamarra 📸
+
+11 99227-6586 📱
+
+Daniel Simões Gamarra da Silva
+
+![](https://media.tenor.com/CTh6eHc6CyYAAAAM/tsukishima-tsuki.gif)
